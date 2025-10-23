@@ -1,0 +1,5 @@
+{
+  "ports": [2222, 8080, 3306],
+  "device_profile": "Smart Router",
+  "encryption": true
+}
