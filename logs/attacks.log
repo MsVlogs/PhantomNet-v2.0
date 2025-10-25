@@ -1,2 +1,760 @@
 2025-10-23 11:15:42.796098 | IP:127.0.0.1 | Port:2222 | Data:Hello from telnet
 
+2025-10-25 19:59:41.982142 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 19:59:43.241913 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 19:59:43.306655 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 19:59:43.430379 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 20:00:15.773715 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 20:00:16.016224 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 20:00:16.182396 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 20:00:17.443327 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 20:01:08.677254 | IP:127.0.0.1 | Port:3306 | Data:GET /?id=4333022d-3058-42be-91c4-ad3c302f93ed&vscodeBrowserReqId=1761422468244 HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.105.1 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US
+
+
+2025-10-25 20:01:29.584536 | IP:127.0.0.1 | Port:3306 | Data:GET /?id=4333022d-3058-42be-91c4-ad3c302f93ed&vscodeBrowserReqId=1761422489186 HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.105.1 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US
+
+
+2025-10-25 20:02:06.357311 | IP:127.0.0.1 | Port:3306 | Data:GET /Brute%20Force?id=4333022d-3058-42be-91c4-ad3c302f93ed&vscodeBrowserReqId=1761422525965 HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.105.1 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US
+
+
+2025-10-25 20:02:13.144016 | IP:127.0.0.1 | Port:3306 | Data:GET /Brute%20Force?id=4333022d-3058-42be-91c4-ad3c302f93ed&vscodeBrowserReqId=1761422532754 HTTP/1.1
+Host: 127.0.0.1:3306
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.105.1 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US
+
+
+2025-10-25 20:37:40.299887 | IP:127.0.0.1 | Port:3306 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 5b442d16a6563fd585df486d9b63fcea
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:40.318261 | IP:127.0.0.1 | Port:3306 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 5b442d16a6563fd585df486d9b63fcea
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:40.334177 | IP:127.0.0.1 | Port:3306 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 5b442d16a6563fd585df486d9b63fcea
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:40.349260 | IP:127.0.0.1 | Port:3306 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 5b442d16a6563fd585df486d9b63fcea
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:43.270145 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 7a43e701662e5bb605c0f2b20cbe5e62
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:43.288366 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 7a43e701662e5bb605c0f2b20cbe5e62
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:43.308186 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 7a43e701662e5bb605c0f2b20cbe5e62
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:43.325865 | IP:127.0.0.1 | Port:3306 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:3306
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev/
+X-Request-ID: 7a43e701662e5bb605c0f2b20cbe5e62
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-3306.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:37:55.970332 | IP:127.0.0.1 | Port:8080 | Data:
+2025-10-25 20:37:55.970726 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+
+2025-10-25 20:38:04.578836 | IP:127.0.0.1 | Port:8080 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 9d18954c75247adaad3bc66440b41aac
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:04.593649 | IP:127.0.0.1 | Port:8080 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 9d18954c75247adaad3bc66440b41aac
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:04.610024 | IP:127.0.0.1 | Port:8080 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 9d18954c75247adaad3bc66440b41aac
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:04.624435 | IP:127.0.0.1 | Port:8080 | Data:GET /favicon.ico HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 9d18954c75247adaad3bc66440b41aac
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /favicon.ico
+X-Scheme: https
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:08.151857 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: e9ee6b4dd99a04aab479fc783641f4cb
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:08.166405 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: e9ee6b4dd99a04aab479fc783641f4cb
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:08.181271 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: e9ee6b4dd99a04aab479fc783641f4cb
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:08.195538 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: e9ee6b4dd99a04aab479fc783641f4cb
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:10.944237 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 2b6406033ae9eea8658105a1923a3a90
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:10.960863 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 2b6406033ae9eea8658105a1923a3a90
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:10.977417 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 2b6406033ae9eea8658105a1923a3a90
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
+2025-10-25 20:38:11.001431 | IP:127.0.0.1 | Port:8080 | Data:GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-BD,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cache-Control: max-age=0
+Referer: https://squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev/
+X-Request-ID: 2b6406033ae9eea8658105a1923a3a90
+X-Real-IP: 103.103.33.57
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /
+X-Scheme: https
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: squalid-cackle-7vxvp7xq45rwfpw69-8080.app.github.dev
+X-Forwarded-For: 103.103.33.57
+Proxy-Connection: Keep-Alive
+
+
