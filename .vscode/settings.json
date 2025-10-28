@@ -13,6 +13,7 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "**/.rmv/catalog/**": true,
-        "*/_*": false
+        "*/_*": false,
+        ".mule": true
     }
 }
