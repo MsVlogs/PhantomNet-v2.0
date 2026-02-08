@@ -7,9 +7,9 @@ CONFIG = json.load(open("phantomnet_agent/config.json"))
 
 def honeypot_listener(port):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.bind(("0.0.0.0", port))
-    s.listen(5)
-    print(f"[+] Honeypot active on port {port}")
+    interface = CONFIG.get("interface", "127.0.0.1")
+    s.bind((interface, port))
+    print(f"[+] Honeypot active on {interface}:{port}")
     while True:
         conn, addr = s.accept()
         data = conn.recv(2048).decode(errors="ignore")
